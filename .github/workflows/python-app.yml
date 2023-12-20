@@ -19,4 +19,4 @@ jobs:
           
       - name: run tests # run main.py
         working-directory: THEGAME
-        run: python thegame,py
+        run: python thegame.py
